@@ -1,0 +1,15 @@
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\bin\Debug\Harry Bird 2.exe.config
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\bin\Debug\Harry Bird 2.exe
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\bin\Debug\Harry Bird 2.pdb
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.csprojAssemblyReference.cache
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\obj\Debug\Harry_Bird_2.Properties.Resources.resources
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.csproj.GenerateResource.cache
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.csproj.CoreCompileInputs.cache
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.exe
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.pdb
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\obj\Debug\Harry_Bird_2.HarryKodder.resources
+C:\Users\Naci Baran\source\repos\Harry Bird 2\Harry Bird 2\obj\Debug\Harry_Bird_2.Form2.resources
+C:\Users\ASUS\Desktop\ConsoleApp13\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ConsoleApp13\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\ConsoleApp13\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.exe
+C:\Users\ASUS\Desktop\ConsoleApp13\Harry Bird 2\Harry Bird 2\obj\Debug\Harry Bird 2.pdb

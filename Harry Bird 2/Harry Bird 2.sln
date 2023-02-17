@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harry Bird 2", "Harry Bird 2\Harry Bird 2.csproj", "{155AC69C-F67F-4312-A498-75168FB2C1AA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HarryBird.Setup", "HarryBird.Setup\HarryBird.Setup.vdproj", "{6AF37B95-6F3E-403C-88A3-3F5EFCEDC89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155AC69C-F67F-4312-A498-75168FB2C1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155AC69C-F67F-4312-A498-75168FB2C1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155AC69C-F67F-4312-A498-75168FB2C1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155AC69C-F67F-4312-A498-75168FB2C1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF37B95-6F3E-403C-88A3-3F5EFCEDC89B}.Debug|Any CPU.ActiveCfg = Debug
+		{6AF37B95-6F3E-403C-88A3-3F5EFCEDC89B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E2AE834-0218-43FE-ABF5-9DAA3C199823}
+	EndGlobalSection
+EndGlobal
